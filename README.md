@@ -1,7 +1,7 @@
 dowloand# orca--linux
 
 
-baixe o arquivo ChemAssistORCA
+baixe o arquivo ChemAssistORCA https://github.com/pachecobelly/orca--linux/releases/tag/executavellinux
 
 
 abrindo o executavel você terá essa página 
